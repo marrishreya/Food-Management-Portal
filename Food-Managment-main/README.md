@@ -15,7 +15,7 @@ The Food Management Portal is a web application built using the MERN stack that 
 * to view and manage orders placed by customers and update their status as the orders progress.
 * view statistics and distribution of orders placed by customers and sales completed by them.
 
-The Canteen Portal supports two types of accounts: vendors and customers.
+The Food Management supports two types of accounts: vendors and customers.
 
 ## Features
 
